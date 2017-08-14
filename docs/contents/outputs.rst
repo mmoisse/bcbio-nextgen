@@ -72,7 +72,7 @@ Project directory
   with gene symbol as an extra column.
 - ``combined.dexseq`` -- DEXseq counts matrix with 
   exonID as first column. 
-- ``combined.gene.sf.tmp`` -- Sailfish gene count
+- ``combined.gene.sf.tpm`` -- Sailfish gene count
   matrix normalized to TPM.
 - ``combined.isoform.sf.tpm`` -- Sailfish transcript
   count matix normalized to TPM.
